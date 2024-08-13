@@ -1,0 +1,370 @@
+@media (max-width:1600px) {
+  .header-content-inner {
+    top: 25%;
+  }
+}
+
+@media (max-width:1485px) {
+  #why_us .why-us-des {
+    padding: 40px 15px 10px 40px;
+  }
+
+  #why_us .why-us-img {
+    height: 670px;
+  }
+}
+
+@media (max-width:1200px) {
+  header .header-content .container h1.heder-heading {
+    font-size: 42px;
+  }
+
+  #header .door .title {
+    font-size: 6rem;
+    line-height: 5rem;
+  }
+
+  #header .door .description {
+    border-top: 1px solid #fff;
+    margin-top: 15px;
+    font-size: 3rem;
+  }
+
+  .about-des h3 {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (min-width:992px) and (max-width: 1200px) {
+  .mleft25 {
+    margin-left: 25%;
+  }
+}
+
+@media (max-width:1140px) {
+  #why_us .why-us-des {
+    padding: 20px 10px 0 10px;
+  }
+
+  .content-warp .container {
+    width: 100%;
+    padding: 15px;
+  }
+
+  ul.social-touch {
+    width: 100%;
+  }
+
+  ul.social-touch li {
+    float: left;
+    width: 14.285%;
+  }
+}
+
+@media (max-width:1024px) {
+  header .header-content .btn-wrap {
+    left: 0;
+  }
+}
+
+@media (max-width:992px) {
+  .container {
+    width: 100%;
+  }
+
+  header .header-content .container h1.heder-heading {
+    margin-top: 20px;
+    font-size: 32px;
+  }
+
+  .text-write h1 {
+    font-size: 34px;
+    margin-top: 0;
+  }
+
+  header .header-content .container p {
+    padding: 0 10px;
+    margin-bottom: 5px;
+  }
+
+  header .header-content .btn-wrap,
+  .btn-wrap {
+    width: 480px;
+    top: 2em;
+  }
+
+  .navbar>.container .navbar-brand,
+  .navbar>.container-fluid .navbar-brand {
+    margin-left: 0;
+  }
+
+  .navbar-default .nav>li>a {
+    font-size: 14px;
+    padding: 5px 10px;
+  }
+
+  .navbar-default .nav>li:last-child>a {
+    padding-right: 15px;
+  }
+
+  .about-des {
+    text-align: center;
+    padding: 0;
+  }
+
+  .about-des h3 {
+    margin-top: 0;
+  }
+
+  .about-des p {
+    text-align: center;
+  }
+
+  .about-image {
+    margin-top: 30px;
+  }
+
+  .achievement-des {
+    padding: 0;
+    text-align: center;
+  }
+
+  #why_us .why-us-des {
+    padding: 50px 10px 50px 10px;
+  }
+
+  .counter-div {
+    width: 174px;
+  }
+
+  .mrt15_992 {
+    margin-top: 15px;
+  }
+
+  .teammm {
+    margin-left: 24%;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .navbar-default {
+    background-image: -moz-linear-gradient(-29deg, #983C80 0px, #87509c 100%);
+    background-image: -moz-linear-gradient(-29deg, #983C80 0, #87509C 100%);
+    background-image: -webkit-linear-gradient(-29deg, #983C80 0, #87509C 100%);
+    background-image: -ms-linear-gradient(-29deg, #983C80 0, #87509C 100%);
+    border-color: rgba(34, 34, 34, 0.05);
+    opacity: 1;
+  }
+
+  .navbar-default .navbar-header .navbar-brand {
+    margin-left: 10px;
+  }
+
+  .header-content-inner {
+    top: 15%;
+  }
+
+  header .header-content .container h1.heder-heading {
+    margin-top: 0;
+  }
+
+  .affix-top .container {
+    border: none;
+  }
+
+  .navbar-default .nav>li.active>a,
+  .navbar-default .nav>li.active>a:focus {
+    border-radius: 0;
+  }
+
+  #header .door .title {
+    font-size: 3.8rem;
+    line-height: 3rem;
+  }
+
+  #header .door .description {
+    border-top: 1px solid #fff;
+    margin-top: 15px;
+    font-size: 2.2rem;
+  }
+
+  section {
+    padding: 50px 0;
+  }
+
+  #why_us .why-us-img {
+    height: 500px;
+  }
+
+
+  .client-des {
+    margin-bottom: 20px;
+  }
+
+  ul.social-touch li a {
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+
+  .copy-right {
+    font-size: 14px;
+  }
+
+  .teammm {
+    margin-left: 0%;
+  }
+}
+
+@media (max-width:498px) {
+  .hello {
+    display: none;
+  }
+
+  .teammm {
+    margin-left: 0%;
+  }
+
+  header .header-content {
+    padding: 110px 1px 0;
+  }
+
+  .lifooter {
+    display: none;
+  }
+
+  .lifooter2 {
+    margin-left: 50px;
+  }
+
+  header .header-content .container h1.heder-heading {
+    font-size: 26px;
+  }
+
+  header .header-content .container p {
+    padding: 0px;
+    margin-bottom: 5px;
+  }
+
+  header .header-content .btn-wrap,
+  .btn-wrap {
+    width: 225px;
+  }
+
+  section .section-header h2 {
+    font-size: 24px;
+  }
+
+  .text-write h1 {
+    font-size: 26px;
+  }
+
+  .custom_btn {
+    padding: 12px 35px;
+  }
+
+  .custom_btn:hover,
+  .custom_btn:active,
+  .custom_btn:focus,
+  .custom_btn.active {
+    padding: 12px 38px;
+    color: #fff;
+  }
+
+  #header .door .title {
+    font-size: 2.3rem;
+    line-height: 2rem;
+    letter-spacing: .2rem
+  }
+
+  #header .door .description {
+    border-top: 1px solid #fff;
+    margin-top: 15px;
+    font-size: 1.8rem;
+  }
+
+  .about-des h3 {
+    font-size: 24px;
+  }
+
+  .achievement-des h2 {
+    font-size: 24px;
+  }
+
+  .why-us-des h2 {
+    font-size: 24px;
+  }
+
+  #why_us .why-us-img {
+    height: 300px;
+  }
+
+  #why_us .why-us-img .video-btn.popup-youtube {
+    border: 4px solid #fff;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 40px;
+    height: 80px;
+    width: 80px;
+    line-height: 70px;
+    padding-left: 24px;
+    position: absolute;
+    left: 39%;
+    top: 40%;
+  }
+
+  .counter-div {
+    width: 120px;
+    height: 160px;
+    padding: 0;
+  }
+
+  .member-des h3 {
+    font-size: 22px;
+  }
+
+  .client-img {
+    width: 60px;
+    margin-right: 10px;
+  }
+
+  .client-img img {
+    width: 100%
+  }
+
+  .w25 {
+    width: 25% !important
+  }
+
+  .w33 {
+    width: 33% !important;
+    margin-top: 20px;
+  }
+
+  .client-text {
+    margin-left: 80px;
+  }
+
+  .client-text h3 {
+    font-size: 14px;
+  }
+
+  .client-text h4 {
+    font-size: 12px;
+  }
+
+  .client-text p {
+    font-size: 14px;
+  }
+}
+
+@media (max-width:350px) {
+  .header-content-inner {
+    top: 8%;
+  }
+
+  .teammm {
+    margin-left: 0%;
+  }
+}
